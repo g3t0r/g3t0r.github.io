@@ -1,0 +1,83 @@
+.experience {
+	font-family: "Dosis";
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-content: center;
+	align-items: center;
+	max-width: 100%;
+	box-sizing: border-box;
+	background: #fcfcfc;
+}
+
+.experience__container {
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+}
+
+.knowledge {
+	display: flex;
+	flex-direction: column;
+}
+
+.knowledge__title {
+	font-size: 36px;
+	width: fit-content;
+}
+
+.knowledge__line {
+	font-size: 24px;
+	padding-left: 35px;
+	width: fit-content;
+}
+
+.knowledge__value {
+	color: #177e89;
+}
+
+.jobs {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+}
+
+.jobs__title {
+	font-size: 36px;
+	width: fit-content;
+}
+
+.jobs__line {
+	font-size: 24px;
+	padding-left: 35px;
+	width: 70vw;
+	max-width: 350px;
+}
+
+.jobs__accent-blue {
+	color: #177e89;
+}
+
+.jobs__accent-red {
+	color: #ef3e36;
+}
+
+@media only screen and (min-width: 768px) {
+	.experience {
+		flex-direction: row;
+		box-sizing: border-box;
+	}
+
+	.experience__container {
+		height: auto;
+		flex-direction: row;
+		width: 90vw;
+		box-sizing: border-box;
+	}
+
+	.jobs__line {
+		max-width: auto;
+	}
+}

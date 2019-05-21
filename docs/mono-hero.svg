@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg251"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="mono-hero.svg">
+  <defs
+     id="defs245" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-5.7142857"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="937"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata248">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g299"
+       transform="matrix(2.3289492,0,0,2.3289492,-129.15643,-233.00343)">
+      <g
+         id="g192"
+         transform="matrix(0.26458333,0,0,0.26458333,20.40613,82.646384)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path151"
+           d="m 375.7,213.1 c 0,0 4.2,-47.7 -31.3,-67.1 0,0 -12,-3.3 -13.2,-12 L 285.4,71.9 c 0,0 -24.3,12.6 -29.9,44.3 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path153"
+           d="m 405.9,88.6 c 0,0 -2.1,-12.3 -58.8,-10.4 0,0 -27.7,-21.4 -61.6,-6.3 0,0 -3.9,2.4 -5.7,3.8 -1.8,1.4 20.2,40.8 20.2,40.8 l 46.2,-15.8 18.5,-8.8 13.4,-4.1 z" />
+      </g>
+      <path
+         style="stroke-width:0.26458332"
+         d="m 119.59842,202.23805 c 0,0 -4.57729,15.42521 -14.20812,21.19313 0,0 -7.487711,5.18583 -13.758336,4.07458 0,0 -11.773958,-21.43125 -13.626042,-50.8 0,0 -1.402291,19.26167 0.608542,25.87625 0,0 -7.725833,-3.14854 -4.577292,-38.60271 z"
+         id="path157"
+         inkscape:connector-curvature="0" />
+      <g
+         id="literka"
+         transform="matrix(0.26458333,0,0,0.26458333,20.40613,82.646384)">
+        <polygon
+           id="polygon160"
+           points="314.1,257 323.9,257 323.9,247.9 303.6,247.9 303.4,257 " />
+        <polygon
+           id="polygon162"
+           points="323.9,282.3 314,282.3 314.1,256.1 323.9,256.1 " />
+        <path
+           id="path164"
+           d="m 290.9,281.7 c 0,0 -0.6,15.5 16.2,16.6 16.9,1.1 16.8,-16.6 16.8,-16.6 H 314 l -0.8,9.4 -11,-2.1 -2.6,-2.6 1.3,-4.7 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path166"
+           d="m 307.4,288.3 c 0,0 -6.1,-0.1 -6.5,-6.5 l -2.1,1 c 0,0 1,9.1 1.2,9.1 0.2,0.1 15.6,0.2 15.8,0.2 0.2,0 4.3,-5.5 4.3,-5.5 l -2.8,-4.7 -3.4,-0.1 c 0.1,-0.1 -0.3,6.4 -6.5,6.5 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="literka_kopia"
+         transform="matrix(0.26458333,0,0,0.26458333,20.40613,82.646384)">
+        <polygon
+           id="polygon169"
+           points="291.4,239.4 301.3,239.4 301.3,230.3 281,230.3 280.7,239.4 " />
+        <polygon
+           id="polygon171"
+           points="301.3,264.6 291.4,264.6 291.4,238.5 301.3,238.5 " />
+        <path
+           id="path173"
+           d="m 268.3,264.1 c 0,0 -0.6,15.5 16.2,16.6 16.9,1.1 16.8,-16.6 16.8,-16.6 h -9.9 l -0.8,9.4 -11,-2.1 -2.6,-2.6 1.3,-4.7 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path175"
+           d="m 284.8,270.6 c 0,0 -6.1,-0.1 -6.5,-6.5 l -2.1,1 c 0,0 1,9.1 1.2,9.1 0.2,0.1 15.6,0.2 15.8,0.2 0.2,0 4.3,-5.5 4.3,-5.5 l -2.8,-4.7 -3.4,-0.1 c 0.1,0 -0.4,6.5 -6.5,6.5 z"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>

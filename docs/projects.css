@@ -1,0 +1,107 @@
+.projects {
+	background: #fcfcfc;
+	display: flex;
+	height: 100vh;
+	justify-content: center;
+	align-content: center;
+	align-items: center;
+}
+
+.projects__container {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	align-content: center;
+	align-items: center;
+}
+
+.projects__info {
+	display: flex;
+	flex-direction: column;
+	font-size: 18px;
+	max-width: 80%;
+}
+
+.projects__title {
+	margin-top: 50px;
+	font-size: 36px;
+}
+
+.projects__link {
+	color: #177e89;
+}
+
+.amihot__description {
+	margin-bottom: 10px;
+	padding-left: 35px;
+}
+
+.noteme__description {
+	display: flex;
+	flex-direction: column;
+	padding-left: 35px;
+}
+
+.noteme__front-end {
+	padding-left: 35px;
+}
+
+.front-end__link {
+	color: #ef3e36;
+}
+
+.noteme__back-end {
+	padding-left: 35px;
+}
+
+.back-end__link {
+	color: #ef3e36;
+}
+
+.github__logo {
+	width: 40%;
+	height: auto;
+}
+
+.github__container {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	align-content: center;
+	align-items: center;
+	text-decoration: none;
+}
+
+.github__link {
+	text-decoration: none;
+	color: #ef3e36;
+	font-size: 22px;
+}
+
+@media only screen and (min-width: 768px) and (orientation: landscape) {
+	.projects__container {
+		flex-direction: row;
+		/* max-width: 80%; */
+		justify-content: space-around;
+		align-content: space-around;
+	}
+
+	.projects__info {
+		font-size: 24px;
+		max-width: 50%;
+	}
+
+	.projects__title {
+		margin-top: 0;
+	}
+
+	.github__logo {
+		width: 30vw;
+		height: auto;
+		max-width: 340px;
+	}
+
+	.github__link {
+		font-size: 24px;
+	}
+}
