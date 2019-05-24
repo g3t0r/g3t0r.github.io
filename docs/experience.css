@@ -9,6 +9,7 @@
 	max-width: 100%;
 	box-sizing: border-box;
 	background: #fcfcfc;
+	min-height: fit-content;
 }
 
 .experience__container {
@@ -16,6 +17,7 @@
 	display: flex;
 	flex-direction: column;
 	justify-content: space-evenly;
+	min-height: fit-content;
 }
 
 .knowledge {
